@@ -1,6 +1,6 @@
 # Overview
 
-% This is official MORGAN article experiment implementation, makes estimation of the Chebychev radius for light inverse rendering task.
+This is official MORGAN article experiment implementation, makes estimation of the Chebychev radius for light inverse rendering task.
 
 # Usage
 
